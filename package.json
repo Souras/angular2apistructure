@@ -1,0 +1,25 @@
+{
+  "name": "api-structure",
+  "version": "1.0.1",
+  "description": "This provide basic common structure of api of Ionic 2 app. Including GET and POST with Error Handling.",
+  "main": "apisvc.js",
+  "scripts": {
+    "test": "npm apisvc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souras/angular2apistructure.git"
+  },
+  "keywords": [
+    "Angulajs",
+    "2",
+    "Ionic",
+    "2"
+  ],
+  "author": "Soruas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Souras/angular2apistructure/issues"
+  },
+  "homepage": "https://github.com/Souras/angular2apistructure#readme"
+}
