@@ -1,0 +1,26 @@
+{
+  "name": "angular2apiconfig",
+  "authors": [
+    "souras"
+  ],
+  "description": "This provide basic common structure of api of Ionic 2 app. Including GET and POST with Error Handling.",
+  "main": "apvConfig.js",
+  "keywords": [
+    "AngularJS",
+    "2",
+    "Ionic",
+    "2",
+    "Service",
+    "Configuration"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
