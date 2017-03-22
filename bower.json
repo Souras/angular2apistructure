@@ -5,6 +5,7 @@
   ],
   "description": "This provide basic common structure of api of Ionic 2 app. Including GET and POST with Error Handling.",
   "main": "apvConfig.js",
+  "directory": "some/path",
   "keywords": [
     "AngularJS",
     "2",
